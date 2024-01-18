@@ -1,11 +1,3 @@
-
-If you like my job, you can support me by paying me a 🍺 or a ☕. Thanks 🙂
-
- [ ![Download](https://user-images.githubusercontent.com/12702322/115148445-e5a40100-a05f-11eb-8552-c1f5d4355987.png) ](https://www.paypal.me/CyrilGuislain)
-
-<img align="left" width=600 src="https://user-images.githubusercontent.com/12702322/129816796-0f8a7844-0c04-45f5-aee3-321125e5ebe4.jpg" />
-
-
 <br /><br /><br /><br /><br />
 
 **Marlin 2.0.8 Firmware configured for FLSUN Super Racer with MKS Robin Nano V3 motherboard. Based on FLSUN sources.**<br /><br />
